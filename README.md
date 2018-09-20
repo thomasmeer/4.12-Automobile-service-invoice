@@ -11,7 +11,7 @@ print()
 
 service_1 = input('Select first service:\n')
 service_2 = input('Select second service:\n')
-
+ 
 print()
 
 print("Davy's auto shop invoice")
