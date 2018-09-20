@@ -8,7 +8,7 @@ print('Car wax -- $12')
 total1 = 0
 total2= 0
 print()
-
+ 
 service_1 = input('Select first service:\n')
 service_2 = input('Select second service:\n')
  
