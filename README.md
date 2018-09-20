@@ -32,7 +32,7 @@ elif service_1 == 'Car wax':
 else:
     print('Service 1: No service')
     
-if service == 'Oil change':
+if service_2 == 'Oil change':
     total2 = 35
     print('Service 2: Oil change, $35')
 elif service_2 =='Tire rotation':
